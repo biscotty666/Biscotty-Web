@@ -1,0 +1,17 @@
+:root {
+  --primary-color: teal;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+p {
+  margin-bottom: 0.5em;
+}
